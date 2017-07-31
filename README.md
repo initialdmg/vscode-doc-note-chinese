@@ -126,6 +126,27 @@ after：
 ![emmet多光标支持](https://code.visualstudio.com/images/1_14_emmet.gif)
 
 
+**[Emmet 定制](https://code.visualstudio.com/updates/v1_14#_emmet-abbreviation-improvements)**
+
+### 输入、移动和粘贴时自动缩进
+
+启用: 设置 `editor.autoIndent` 为 `true`。
+
+支持TS, JS, HTML, CSS, JSON 和其他有缩进规则的语言。
+
+### Engineering
+
+**64位支持**
+
+Windows平台现提供64位版本。非 insider 用户最好等待下月的稳定版本。
+
+**在安装64位版本前务必卸载已安装的32位版本**。
+
+### 预览：多根目录工作区
+
+现在在 File 菜单和右键中可以向工作区添加文件夹。搜索支持搜索多个目录。
+
+
 # [May 2017 (version 1.13)](https://code.visualstudio.com/updates/v1_13)
 
 highlights：
